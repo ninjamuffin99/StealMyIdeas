@@ -5,6 +5,8 @@ ironically, stolen from lars doucet <https://stealmyideas.io/>
 more ideas to steal <https://blog.ncase.me/backlog/>
 
 ## project ideas
+- Tool to convert Flash ~CS4 .FLA files downwards to <CS3 compatible .FLA files.
+  - Old format uses microsoft OLE binary format, new ones use something like a compressed zip esque format
 - flash esque animation tool built with p5js scripting
 - GUI client for [Spicetify](https://spicetify.app/) for easy use for people who don't know how to use the CLI
   - Make a simpler installer for Spicetify, one click install, which will both install spicetify, and then add something like a "themes" section
